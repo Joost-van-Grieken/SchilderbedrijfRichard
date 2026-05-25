@@ -90,7 +90,7 @@ export default function Footer() {
 
         <div className="border-t border-gray-800 pt-6 flex flex-col sm:flex-row justify-between items-center gap-3 text-xs text-gray-500">
           <p>&copy; {new Date().getFullYear()} Schildersbedrijf Richard. Alle rechten voorbehouden.</p>
-          {/* <p>KvK: 12345678 &middot; BTW: NL001234567B01</p> */}
+          <p>KvK: 96625112 &middot; BTW: NL005221624B17</p>
         </div>
       </div>
     </footer>

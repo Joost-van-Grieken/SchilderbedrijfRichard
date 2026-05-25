@@ -3,7 +3,7 @@ import { Menu, X } from 'lucide-react';
 
 const navItems = [
   { label: 'Buiten schilderwerk', id: 'buiten-schilderwerk' },
-  { label: 'Binnen schilderwerk & Stucwerk', id: 'binnen-schilderwerk' },
+  { label: 'Binnen schilderwerk & Sauswerk', id: 'binnen-schilderwerk' },
   { label: 'Houtrot', id: 'houtrot' },
   { label: 'Kunststof', id: 'kunststof' },
   { label: 'Projecten', id: 'projecten' },
